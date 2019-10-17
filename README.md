@@ -202,3 +202,5 @@ response[0]
 which should show the first packet received.  Hopefully this is a response to
 our DNS queuery.  
 
+## Someone remind Matt to turn off / delete his AWS instance... 
+
